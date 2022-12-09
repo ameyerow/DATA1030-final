@@ -10,7 +10,7 @@ Download the 2022 Combined flight data .parquet file from here (https://www.kagg
 
 # Source code and saved models
 
-The source code for the project can be found in the 'src' folder. It is all contained in one jupyter notebook file. The accompanying models from the training code can be found and loaded from the 'results' folder. In each .save file is a tuple of (saved_model, X_test, y_test). 
+The source code for the project can be found in the 'src' folder. It is all contained in one jupyter notebook file. The accompanying models from the training code can be found and loaded from the 'results' folder. The .save file for the KNN Classifier had to be omitted from the repository given its large size.
 
 # Report and figures
 
